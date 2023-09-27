@@ -41,5 +41,5 @@ Open to remote collaborations and opportunities. Let's leverage AI to craft the 
 - [Twitter](https://twitter.com/abhi0642/)
 - 📧 Email: reach2abhishekchaturvedi@gmail.com
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi0642&show_icons=true&theme=radical)
 
