@@ -40,6 +40,7 @@ Open to remote collaborations and opportunities. Let's leverage AI to craft the 
 - [LinkedIn](https://www.linkedin.com/in/abhi0642/)
 - [Twitter](https://twitter.com/abhi0642/)
 - 📧 Email: reach2abhishekchaturvedi@gmail.com
+- [Portfolio][https://abhi0642.github.io/Portfolio/]
 
 ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi0642&show_icons=true&theme=radical)
 
